@@ -1,0 +1,5 @@
+# codigo_livro;titulo;autor
+L001;Python para Todos;Guido van Rossum
+L002;Introdução à POO;Grady Booch
+L003;A Arte de Programar;Donald Knuth
+L004;Fundamentos de Cibersegurança;Bruce Schneier

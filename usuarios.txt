@@ -1,0 +1,4 @@
+# codigo_usuario;nome;tipo_usuario;login;senha
+C101;João Silva;Cliente;jsilva;12345
+C102;Maria Souza;Cliente;msouza;45678
+B001;Lucas Ferreira;Bibliotecario;lferreira;99999

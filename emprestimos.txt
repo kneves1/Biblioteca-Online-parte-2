@@ -1,0 +1,13 @@
+# codigo_emprestimo;codigo_cliente;codigo_livro;data_emprestimo;data_devolucao_prevista;data_devolucao_real;multa_cobrada;renovacoes_realizadas
+# ------------------------------------------------------------------------------------------------------------------------------------------
+# 1. ATIVO E NO PRAZO (Vencimento 2025-11-09)
+001;C101;L001;2025-11-02;2025-11-09;None;0.0;0
+
+# 2. ATIVO E ATRASADO (Vencimento 2025-11-03 - 2 dias de atraso, R$ 1,00 de multa)
+002;C102;L002;2025-10-27;2025-11-03;None;0.0;0
+
+# 3. ATIVO E RENOVADO (Vencimento 2025-11-12 - 1 renovação usada)
+003;C101;L004;2025-10-29;2025-11-12;None;0.0;1
+
+# 4. HISTÓRICO: DEVOLVIDO COM MULTA (Multa de R$ 1.50 registrada)
+004;C102;L001;2025-09-01;2025-09-08;2025-09-11;1.50;0

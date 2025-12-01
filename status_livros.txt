@@ -1,0 +1,5 @@
+# codigo_livro;posicao;estado_conservacao;acessivel_emprestimo
+L001;A01, Estante 1;Bom;True
+L002;A02, Estante 1;Novo;True
+L003;B01, Armário 3;Desgastado;False
+L004;B02, Estante 2;Bom;True
